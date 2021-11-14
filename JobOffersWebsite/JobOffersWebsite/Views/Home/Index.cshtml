@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Job_Offers_Website.Models.Category>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron alert alert-info">
+    <h1 class="heading">مرحبا بك عزيزي الزائر </h1>
+    <p class="lead">مرحبا بك في فضاء البحث عن الوظائف باختلاف أصنافها , يمكنك نشر وظيفة ان كنت ناشرا ويمكنك التقدم للوظيفة اذا كنت باحثا عن عمل</p>
+    
+</div>
+
+
+@foreach (var item in Model)
+{
+<div class="panel panel-info">
+
+
+    <h1 class="panel-heading">@Html.DisplayFor(modelItem => item.CategoryName)</h1>
+    
+
+    <div class="row panel-body">
+
+        <h5>@Html.DisplayFor(modelItem => item.CategoryDescription)</h5>
+
+        @foreach (var subItem in item.Jobs)
+        {
+
+            <div class="col-md-3">
+                <h3>@Html.DisplayFor(modelItem => subItem.Title)</h3>
+                <div class="data">
+                    <h5>
+                        @Html.Raw(HttpUtility.HtmlDecode(Html.DisplayFor(modelItem => subItem.JobContent).ToString()))
+                    </h5>
+                    <span>@Html.DisplayFor(modelItem => subItem.JobTime) وقت العمل اليومي</span>
+                </div>
+
+                @Html.ActionLink("التفاصيل", "Detailes", new { JobId = subItem.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        }
+    </div>
+</div>
+}

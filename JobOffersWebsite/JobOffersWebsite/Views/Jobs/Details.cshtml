@@ -1,0 +1,50 @@
+﻿@model Job_Offers_Website.Models.Job
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>تفاصيل</h2>
+
+<div>
+    <h4>الوظيفة</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobContent)
+        </dt>
+
+        <dd>
+            @Html.Raw(HttpUtility.HtmlDecode(Html.DisplayFor(model => model.JobContent).ToString()))
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobTime)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("العودة الى القائمة", "Index", null, new { @class = "btn btn-default" })
+</p>

@@ -1,0 +1,341 @@
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\csc.rsp
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\csi.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\csi.rsp
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.AppContext.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Console.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Globalization.Calendars.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Http.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Net.Sockets.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.ValueTuple.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\vbc.rsp
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Web.Infrastructure.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Owin.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\obj\Debug\JobOffersWebsite.csproj.CoreCompileInputs.cache
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\obj\Debug\JobOffersWebsite.csproj.CopyComplete
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\Job Offers Website\Job Offers Website\obj\Debug\Job Offers Website.pdb
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Job Offers Website.dll.config
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Job Offers Website.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Job Offers Website.pdb
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csc.exe
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csc.exe.config
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csc.rsp
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csi.exe
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csi.exe.config
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csi.rsp
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Console.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\vbc.exe
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\vbc.exe.config
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\vbc.rsp
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Antlr3.Runtime.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Newtonsoft.Json.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Owin.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Helpers.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Mvc.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Optimization.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Razor.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Razor.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\WebGrease.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Newtonsoft.Json.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Optimization.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Razor.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Razor.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Helpers.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Mvc.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csproj.CoreCompileInputs.cache
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csproj.CopyComplete
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job Offers Website.dll
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job Offers Website.pdb
+C:\Users\m_e_k\Downloads\Job Offers Website\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csproj.AssemblyReference.cache
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Job Offers Website.dll.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Job Offers Website.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Job Offers Website.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csc.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csc.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csc.rsp
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csi.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csi.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\csi.rsp
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.AppContext.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Collections.Immutable.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Console.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Globalization.Calendars.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.Compression.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.FileSystem.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Net.Http.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Net.Sockets.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Reflection.Metadata.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.ValueTuple.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.XPath.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\vbc.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\vbc.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\vbc.rsp
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\VBCSCompiler.exe
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\roslyn\VBCSCompiler.exe.config
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Antlr3.Runtime.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.SqlServer.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Google.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Web.Infrastructure.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Newtonsoft.Json.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Owin.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Helpers.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Mvc.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Optimization.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Razor.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Deployment.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Razor.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\WebGrease.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Antlr3.Runtime.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\EntityFramework.SqlServer.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.Google.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Newtonsoft.Json.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Optimization.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Razor.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Deployment.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Webpages.Razor.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Helpers.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Web.Mvc.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csprojAssemblyReference.cache
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csproj.CoreCompileInputs.cache
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csproj.CopyComplete
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job Offers Website.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job Offers Website.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.InitialCreate.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\JobOffersWebsite.csproj.GenerateResource.cache
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.NewColumnToUsers.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.AddCategoryTable.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.AddJobTable.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.EditNameOfTable.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.AddApplayJobTable.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\BouncyCastle.Crypto.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Google.Protobuf.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\K4os.Compression.LZ4.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\K4os.Compression.LZ4.Streams.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\K4os.Hash.xxHash.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\MySql.Data.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Buffers.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Memory.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Numerics.Vectors.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Ubiety.Dns.Core.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\ZstdNet.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Google.Protobuf.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\Google.Protobuf.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\K4os.Compression.LZ4.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\K4os.Compression.LZ4.Streams.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\K4os.Hash.xxHash.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\MySql.Data.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Buffers.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Memory.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Numerics.Vectors.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\obj\Debug\Job_Offers_Website.Migrations.EditJobModel.resources
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\AWSSDK.Core.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\AWSSDK.DynamoDBv2.dll
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\AWSSDK.Core.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\AWSSDK.Core.xml
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\AWSSDK.DynamoDBv2.pdb
+E:\1\Web\Projects\Final Projects\Back end\ASP.net\JobOffersWebsite\JobOffersWebsite\bin\AWSSDK.DynamoDBv2.xml
